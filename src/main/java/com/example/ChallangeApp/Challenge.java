@@ -40,4 +40,9 @@ public class Challenge {
             System.out.println("nothing");
         }
     }
+    public void dummy2(){
+        for (int i = 0; i < 6; i++) {
+            System.out.println("nothing");
+        }
+    }
 }
