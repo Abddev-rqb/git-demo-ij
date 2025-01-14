@@ -35,4 +35,9 @@ public class Challenge {
         this.description = description;
     }
     // this is a comment to show the diff.
+    public void dummy(){
+        for (int i = 0; i < 6; i++) {
+            System.out.println("nothing");
+        }
+    }
 }
