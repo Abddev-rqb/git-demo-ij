@@ -27,9 +27,9 @@ public class Challenge {
         this.month = month;
     }
 
-//    public String getDescription() {
-//        return description;
-//    }
+    public String getDescription() {
+        return description;
+    }
 
     public void setDescription(String description) {
         this.description = description;
