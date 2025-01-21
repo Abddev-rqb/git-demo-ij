@@ -34,15 +34,15 @@ public class Challenge {
     public void setDescription(String description) {
         this.description = description;
     }
-    // this is a comment to show the diff.
-    public void dummy(){
-        for (int i = 0; i < 6; i++) {
-            System.out.println("nothing");
-        }
-    }
-    public void dummy2(){
-        for (int i = 0; i < 6; i++) {
-            System.out.println("nothing");
-        }
-    }
+//    // this is a comment to show the diff.
+//    public void dummy(){
+//        for (int i = 0; i < 6; i++) {
+//            System.out.println("nothing");
+//        }
+//    }
+//    public void dummy2(){
+//        for (int i = 0; i < 6; i++) {
+//            System.out.println("nothing");
+//        }
+//    }
 }
